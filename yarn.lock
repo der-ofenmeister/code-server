@@ -8582,10 +8582,10 @@ ws@^7.2.0:
   resolved "https://registry.yarnpkg.com/ws/-/ws-7.4.5.tgz#a484dd851e9beb6fdb420027e3885e8ce48986c1"
   integrity sha512-xzyu3hFvomRfXKH8vOFMU3OguG6oOvhXMo3xsGy3xWExqaM2dxBbVxuD99O7m3ZUFMvvscsZDqxfgMaRr/Nr1g==
 
-wtfnode@^0.8.4:
-  version "0.8.4"
-  resolved "https://registry.yarnpkg.com/wtfnode/-/wtfnode-0.8.4.tgz#91ecf78a40ce222a73a063f26d72bea52357efcc"
-  integrity sha512-64GEKtMt/MUBuAm+8kHqP74ojjafzu00aT0JKsmkIwYmjRQ/odO0yhbzKLm+Z9v1gMla+8dwITRKzTAlHsB+Og==
+wtfnode@^0.9.1:
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/wtfnode/-/wtfnode-0.9.1.tgz#c385679d2df6fb4d64d734eeeaab767fcee3e0d3"
+  integrity sha512-Ip6C2KeQPl/F3aP1EfOnPoQk14Udd9lffpoqWDNH3Xt78svxPbv53ngtmtfI0q2Te3oTq79XKTnRNXVIn/GsPA==
 
 x-is-string@^0.1.0:
   version "0.1.0"
